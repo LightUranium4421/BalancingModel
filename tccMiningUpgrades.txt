@@ -1,0 +1,2503 @@
+1
+
+Stone*25
+Coal*3
+Iron*2
+}}
+
+Iron Pickaxe
+}}
+12
+-
+2
+
+Stone*50
+Coal*4
+Iron*3
+Silver*3
+}}
+
+Gold Pickaxe
+}}
+4
+-
+3
+
+Stone*70
+Coal*10
+Iron*10
+Silver*8
+Gold*3
+}}
+
+Emerald Pickaxe
+}}
+8
+-
+4
+
+Iron*20
+Silver*15
+Ruby*1
+Sapphire*1
+Emerald*2
+}}
+
+Diamond Pickaxe
+Peridot Pickaxe
+}}
+12
+-
+5
+
+Iron*10
+Silver*15
+Sapphire*3
+Emerald*2
+Diamond*2
+}}
+
+Opal Pickaxe
+Topaz Pickaxe
+}}
+16
+-
+6
+
+Coal*5
+Iron*15
+Emerald*3
+Peridot*5
+Thallium*2
+Diamond*3
+}}
+ -
+20
+-
+7
+
+Coal*15
+Iron*15
+Chlorophyte*4
+Thallium*4
+Diamond*3
+Platinum*1
+}}
+
+Moonstone Pickaxe
+}}
+25
+-
+8
+
+Coal*17
+Iron*25
+Amethyst*2
+Thallium*4
+Diamond*4
+Platinum*3
+}}
+
+Amethyst Pickaxe
+Garnet Pickaxe
+}}
+29
+-
+9
+
+Coal*25
+Iron*25
+Amethyst*5
+Thallium*2
+Platinum*5
+Plutonium*1
+}}
+ -
+34
+-
+10
+
+Coal*20
+Iron*30
+Platinum*3
+Titanium*2
+Technetium*4
+}}
+
+Plutonium Pickaxe
+Titanium Pickaxe
+}}
+39
+-
+11
+
+Coal*15
+Iron*35
+Malachite*2
+Titanium*4
+Technetium*4
+}}
+
+Platinum Pickaxe
+}}
+45
+-
+12
+
+Coal*10
+Iron*40
+Titanium*5
+Technetium*6
+Uranium*5
+Lithium*5
+}}
+
+Hematite Pickaxe
+}}
+50
+-
+13
+
+Coal*5
+Iron*45
+Titanium*7
+Plutonium*10
+Technetium*8
+Uranium*10
+Caesium*4
+Lithium*9
+Osmium*3
+}}
+
+Soul Crystal Pickaxe
+}}
+56
+-
+14
+
+Iron*50
+Sulfur*15
+Hematite*1
+Chrysoprase*5
+Soul Crystal*24
+}}
+
+Lapis Pickaxe
+Demonite Pickaxe
+}}
+61
+-
+15
+
+Iron*60
+Sulfur*55
+Rainbonite*10
+Chrysoprase*15
+Soul Crystal*39
+Lapis*15
+}}
+
+Cobalt Pickaxe
+}}
+67
+-
+16
+
+Iron*70
+Sulfur*60
+Rose Quartz*25
+Soul Crystal*45
+Lapis*25
+Demonite*20
+}}
+
+Mithril Pickaxe
+Vanadium Pickaxe
+}}
+73
+-
+17
+
+Iron*80
+Sulfur*50
+Mithril*10
+Vanadium*5
+Dragonglass*35
+Carnelian*25
+}}
+ -
+79
+-
+18
+
+Iron*80
+Sulfur*50
+Vanadium*20
+Dragonglass*50
+Carnelian*35
+Firecrystal*10
+}}
+
+Dragonglass Pickaxe
+}}
+85
+-
+19
+
+Iron*40
+Sulfur*45
+Dragonglass*55
+Carnelian*45
+Magmium*30
+Firecrystal*15
+}}
+
+Boomite Pickaxe
+Carnelian Pickaxe
+}}
+91
+-
+20
+
+Sulfur*60
+Dragonglass*25
+Carnelian*35
+Magmium*30
+Jasper*15
+}}
+
+Jasper Pickaxe
+}}
+98
+-
+21
+
+Sulfur*55
+Carnelian*15
+Firecrystal*15
+Hellstone*5
+Magnesium*33
+Jasper*20
+Mantle Fragment*15
+}}
+
+Gargantium Pickaxe
+}}
+104
+-
+22
+
+Sulfur*40
+Hellstone*30
+Magnesium*50
+Mantle Fragment*40
+Tellurium*7
+Newtonium*5
+}}
+
+Newtonium Pickaxe
+Radium Pickaxe
+}}
+111
+-
+23
+
+Sulfur*40
+Plutonium*15
+Uranium*15
+Hellstone*15
+Newtonium*15
+}}
+
+Toxirock Pickaxe
+}}
+117
+-
+24
+
+Sulfur*25
+Plutonium*30
+Uranium*30
+Toxirock*100
+Newtonium*15
+Lead*5
+}}
+
+Lead Pickaxe
+Yunium Pickaxe
+}}
+124
+-
+25
+
+Sulfur*50
+Plutonium*15
+Uranium*35
+Caesium*10
+Toxirock*150
+Newtonium*25
+Lead*15
+}}
+
+Coronium Pickaxe
+}}
+131
+-
+26
+
+Sulfur*55
+Caesium*15
+Newtonium*30
+Lead*30
+Coronium*15
+Polonium*5
+}}
+ -
+138
+-
+27
+
+Sulfur*55
+Caesium*20
+Thorium*20
+Lead*15
+Coronium*15
+Tritium*5
+Polonium*10
+}}
+
+Ambrosine Pickaxe
+}}
+145
+-
+28
+
+Sulfur*55
+Caesium*25
+Thorium*15
+Lead*5
+Coronium*30
+Tritium*10
+Polonium*15
+}}
+ -
+152
+-
+29
+
+Boomite*150
+Thorium*20
+Blastium*25
+Coronium*30
+Tritium*10
+Polonium*15
+}}
+ -
+159
+-
+30
+
+Boomite*200
+Blastium*50
+Coronium*50
+Frightstone*5
+}}
+
+Frightstone Pickaxe
+}}
+166
+-
+31
+
+Aluminum*150
+Coronium*40
+Frightstone*20
+Dark Matter*20
+}}
+
+Constellatium Pickaxe
+}}
+173
+-
+32
+
+Aluminum*100
+Frightstone*30
+Antimatter*20
+Dark Matter*25
+}}
+
+Antimatter Pickaxe
+}}
+181
+-
+33
+
+Frightstone*50
+Stellarite*15
+Antimatter*25
+Constellatium*15
+Dark Matter*30
+}}
+
+Prismaline Pickaxe
+}}
+188
+-
+34
+
+Frightstone*50
+Stellarite*30
+Prismaline*5
+Antimatter*25
+Constellatium*30
+Dark Matter*30
+}}
+ -
+195
+-
+35
+
+Frightstone*50
+Stellarite*40
+Prismaline*20
+Antimatter*50
+Constellatium*50
+Dark Matter*50
+}}
+ -
+203
+-
+36
+
+Frightstone*60
+Stellarite*35
+Prismaline*15
+Antimatter*45
+Constellatium*30
+Dark Matter*50
+}}
+
+Horrorstone Pickaxe
+}}
+210
+-
+37
+
+Demonite*15
+Stellarite*20
+Prismaline*25
+Antimatter*25
+Constellatium*20
+Dark Matter*75
+Horrorstone*25
+}}
+ -
+218
+-
+38
+
+Demonite*6
+Lead*20
+Antimatter*40
+Dark Matter*50
+Crimstone*100
+Horrorstone*35
+Strange Matter*18
+}}
+ -
+226
+-
+39
+
+Demonite*8
+Antimatter*25
+Dark Matter*25
+Crimstone*122
+Horrorstone*40
+Strange Matter*24
+Magnetite*12
+}}
+
+Element V Pickaxe
+}}
+234
+-
+40
+
+Demonite*14
+Dark Matter*30
+Crimstone*144
+Horrorstone*46
+Strange Matter*36
+Vermillium*20
+Magnetite*28
+}}
+ -
+241
+-
+41
+
+Demonite*13
+Dark Matter*50
+Crimstone*188
+Horrorstone*40
+Strange Matter*48
+Vermillium*25
+Magnetite*40
+}}
+ -
+249
+-
+42
+
+Demonite*6
+Dark Matter*45
+Horrorstone*35
+Strange Matter*26
+Vermillium*35
+Magnetite*23
+Vantaslate*50
+}}
+ -
+257
+-
+43
+
+Aluminum*120
+Iron*200
+Surrendrock*2
+Vantaslate*150
+Ebonakite*5
+}}
+
+Vantaslate Pickaxe
+}}
+265
+-
+44
+
+Aluminum*200
+Iron*150
+Surrendrock*1
+Vantaslate*90
+Ebonakite*15
+Palladium*10
+}}
+
+Neptunium Pickaxe
+}}
+273
+-
+45
+
+Iron*100
+Iridium*2
+Vantaslate*190
+Cometite*20
+Eclipsium*25
+Ebonakite*18
+}}
+
+Surrendrock Pickaxe
+Iridium Pickaxe
+}}
+281
+-
+46
+
+Iron*50
+Iridium*3
+Vantaslate*250
+Cometite*28
+Eclipsium*11
+Ebonakite*20
+Neptunium*7
+Void Orb*6
+}}
+ -
+290
+-
+47
+
+Iridium*2
+Vantaslate*300
+Cometite*25
+Ebonakite*15
+Palladium*20
+Neptunium*30
+Void Orb*8
+}}
+
+Adamantite Pickaxe
+}}
+298
+-
+48
+
+Iridium*3
+Vantaslate*250
+Cometite*20
+Adamantite*8
+Ebonakite*22
+Palladium*25
+Neptunium*30
+Void Orb*12
+Asthenocrit*14
+}}
+ -
+306
+-
+49
+
+Vantaslate*150
+Cometite*25
+Eclipsium*20
+Ebonakite*14
+Palladium*25
+Neptunium*20
+Void Orb*7
+}}
+ -
+314
+-
+50
+
+Vantaslate*222
+Cometite*15
+Eclipsium*35
+Ebonakite*11
+Palladium*24
+Neptunium*30
+Void Orb*5
+Asthenocrit*9
+}}
+
+Sunstone Pickaxe
+}}
+323
+-
+51
+
+Stone*1500
+Sunstone*10
+Moonstone*5
+Asthenocrit*25
+Amnesite*18
+}}
+ -
+331
+-
+52
+
+Stone*2150
+Iridium*2
+Amnesite*15
+Quicksilver*5
+}}
+
+Quicksilver Pickaxe
+}}
+340
+-
+53
+
+Stone*2350
+Amnesite*30
+Graphene*5
+Quicksilver*15
+}}
+ -
+348
+-
+54
+
+
+Stone*2500
+Titanium*5
+Amnesite*35
+Graphene*10
+Quicksilver*25
+}}
+
+Graphene Pickaxe
+}}
+357
+-
+55
+
+Stone*2750
+Titanium*35
+Amnesite*50
+Shadow Quartz*15
+Quicksilver*35
+Gray Matter*5
+}}
+ -
+366
+-
+56
+
+Stone*3000
+Titanium*45
+Amnesite*55
+Quicksilver*40
+Gray Matter*15
+}}
+
+Chromium Pickaxe
+}}
+374
+-
+57
+
+Boron*50
+Amnesite*35
+Cadmium*20
+Chromium*20
+}}
+ -
+383
+-
+58
+
+Cadmium*25
+Chromium*22
+Null*15
+Noise*3
+Navitalc*5
+}}
+
+Null Pickaxe
+}}
+392
+-
+59
+
+Cadmium*30
+Chromium*20
+Geometrium*5
+Null*20
+Noise*5
+Navitalc*22
+Myriroule*22
+}}
+
+Noise Pickaxe
+}}
+400
+-
+60
+
+Cadmium*15
+Chromium*15
+Null*25
+Noise*10
+Inversium*30
+Myriroule*33
+Perilium*4
+}}
+ -
+409
+-
+61
+
+Geometrium*35
+Null*34
+Noise*15
+Navitalc*50
+Argibar*10
+}}
+ -
+418
+-
+62
+
+Chromium*33
+Geometrium*30
+Null*20
+Noise*10
+Inversium*30
+Myriroule*30
+Argibar*16
+Perilium*10
+}}
+ -
+427
+-
+63
+
+Silver*100
+Perilium*2
+Frostarium*15
+}}
+
+Frostarium Pickaxe
+}}
+436
+-
+64
+
+Silver*150
+Chlorophyte*15
+Frostarium*30
+}}
+ -
+445
+
+-
+65
+
+Silver*200
+Chlorophyte*30
+Frostarium*35
+}}
+ -
+454
+-
+66
+
+Silver*175
+Chlorophyte*40
+Frostarium*35
+Soimabarium*15
+}}
+
+Soimabarium Pickaxe
+}}
+463
+-
+67
+
+Silver*150
+Chlorophyte*50
+Blue Ice*15
+Frostarium*45
+Soimabarium*30
+Polarveril*5
+}}
+
+Cryonine Pickaxe
+}}
+473
+-
+68
+
+Silver*175
+Chlorophyte*35
+Blue Ice*26
+Frostarium*35
+Polarveril*16
+Cryonine*5
+Soimabarium*35
+}}
+ -
+482
+-
+69
+
+Stone*3000
+Silver*250
+Chlorophyte*25
+Blue Ice*35
+Frostarium*55
+Polarveril*11
+Soimabarium*30
+}}
+ -
+491
+-
+  70
+
+Blue Ice*15
+Polarveril*7
+Cryonine*15
+Soimabarium*15
+Nerolin*20
+}}
+ -
+500
+-
+71
+
+Nerolin*25
+Hydrolyth*10
+Pearl*5
+}}
+
+Aquamarine Pickaxe
+}}
+510
+-
+72
+
+Nerolin*30
+Tenebris*5
+Aquamarine*9
+Hydrolyth*15
+Pearl*8
+}}
+ -
+519
+-
+73
+
+Nerolin*25
+Tenebris*12
+Aquamarine*15
+Hydrolyth*20
+Pearl*12
+}}
+
+Chalcedony Pickaxe
+}}
+528
+-
+74
+
+Nerolin*35
+Tenebris*14
+Aquamarine*16
+Hydrolyth*30
+Pearl*13
+}}
+ -
+538
+-
+75
+
+Nerolin*40
+Tenebris*16
+Aquamarine*20
+Hydrolyth*35
+Pearl*15
+}}
+
+Cosmaline Pickaxe
+}}
+547
+-
+  76
+
+Coal*50
+Stellarite*5
+Constellatium*10
+Cosmaline*1
+}}
+ -
+557
+-
+77
+
+Coal*75
+Stellarite*15
+Constellatium*15
+Cosmaline*5
+Starsteel*10
+}}
+ -
+566
+-
+78
+
+Coal*100
+Stellarite*25
+Constellatium*25
+Cosmaline*15
+Starsteel*20
+Endotravine*30
+}}
+
+Astral Pickaxe
+}}
+576
+-
+79
+
+Coal*125
+Stellarite*30
+Constellatium*30
+Cosmaline*25
+Starsteel*25
+}}
+ -
+586
+-
+80
+
+Coal*200
+Stellarite*50
+Constellatium*50
+Cosmaline*40
+Astratine*15
+Starsteel*30
+}}
+
+Nickel Pickaxe
+}}
+595
+-
+81
+
+Iron*25
+Uranium*10
+Nickel*10
+}}
+ -
+605
+-
+82
+
+Iron*50
+Uranium*20
+Nickel*15
+}}
+ -
+615
+-
+83
+
+Iron*75
+Uranium*30
+Nickel*20
+Molten Iron*5
+}}
+
+Molten Pickaxe
+}}
+624
+-
+84
+
+Iron*100
+Uranium*35
+Nickel*25
+Molten Iron*15
+}}
+ -
+634
+-
+85
+
+Iron*110
+Uranium*37
+Nickel*27
+Molten Iron*17
+Liquid Gold*5
+}}
+ -
+644
+-
+86
+
+Iron*120
+Uranium*40
+Nickel*30
+Molten Iron*20
+Cinnabar*20
+Liquid Gold*10
+}}
+
+Samarium Pickaxe
+}}
+654
+-
+87
+
+Iron*160
+Uranium*50
+Nickel*50
+Molten Iron*25
+Cinnabar*30
+Liquid Gold*20
+}}
+ -
+664
+-
+88
+
+Iron*200
+Uranium*60
+Nickel*60
+Molten Iron*35
+Cinnabar*10
+Liquid Gold*30
+}}
+ -
+674
+-
+89
+
+Iron*350
+Uranium*100
+Nickel*100
+Molten Iron*50
+Cinnabar*5
+Liquid Gold*35
+}}
+ -
+684
+-
+90
+
+Stone*10000
+Bedrock*10
+Andrium*5
+}}
+
+Andrium Pickaxe
+}}
+694
+-
+91
+
+Stone*10000
+Bedrock*15
+Andrium*5
+}}
+ -
+704
+-
+92
+
+Stone*1000
+Bedrock*20
+Redsteel*5
+Andrium*15
+}}
+ -
+714
+-
+93
+
+Stone*100
+Redsteel*15
+Andrium*20
+}}
+
+Neutronium Pickaxe
+}}
+ 724
+-
+94
+
+Jade*5
+Redsteel*20
+Andrium*25
+Spiralium*5
+}}
+ -
+734
+-
+95
+
+Jade*10
+Redsteel*25
+Andrium*40
+Neutronium*1
+Spiralium*10
+}}
+
+Bedrock Pickaxe
+}}
+744
+-
+96
+
+Jade*15
+Redsteel*30
+Andrium*35
+Neutronium*3
+Spiralium*11
+Frozen Nitrogen*5
+}}
+ -
+755
+-
+97
+
+Jade*25
+Redsteel*27
+Cryoplasm*15
+Andrium*40
+Neutronium*7
+Spiralium*15
+Frozen Nitrogen*10
+}}
+ -
+765
+-
+98
+
+Jade*30
+Redsteel*30
+Cryoplasm*25
+Andrium*50
+Neutronium*20
+Spiralium*25
+Frozen Nitrogen*20
+}}
+ -
+775
+-
+99
+
+Bedrock*50
+Cryoplasm*20
+Neutronium*15
+}}
+ -
+785
+-
+100
+
+Bedrock*45
+Redsteel*20
+Neutronium*27
+Orichalican*8
+Scorched Bedrock*45
+}}
+
+Plasma Pickaxe
+}}
+796
+-
+101
+
+Plasma*250
+Crystalline Plasma*8
+}}
+ -
+806
+-
+102
+
+Plasma*300
+Crystalline Plasma*23
+}}
+ -
+816
+-
+103
+
+Plasma*300
+Crystalline Plasma*19
+Electrium*5
+}}
+
+Electrium Pickaxe
+}}
+827
+-
+104
+
+Plasma*333
+Crystalline Plasma*31
+}}
+
+Protonium Pickaxe
+}}
+837
+-
+105
+
+Plasma*333
+Crystalline Plasma*31
+Electrium*5
+Protonium*1
+}}
+ -
+ 848
+-
+106
+
+Plasma*444
+Crystalline Plasma*39
+Electrium*10
+Protonium*6
+}}
+ -
+858
+-
+107
+
+Plasma*555
+Crystalline Plasma*51
+Electrium*15
+Protonium*18
+}}
+
+Shadowspec Pickaxe
+}}
+869
+-
+108
+
+Plasma*450
+Crystalline Plasma*62
+Electrium*25
+Protonium*26
+}}
+ -
+879
+-
+109
+
+Plasma*680
+Crystalline Plasma*77
+Protonium*59
+Galvanium*40
+}}
+ -
+890
+-
+110
+
+Plasma*750
+Galvanium*35
+Ferozium*4
+}}
+ -
+901
+-
+111
+
+Plasma*900
+Galvanium*20
+Ferozium*6
+}}
+
+Ferozium Pickaxe
+Equilibrium Pickaxe
+}}
+911
+-
+112
+
+Ferozium*8
+Up Quark*5
+Down Quark*5
+}}
+ -
+922
+-
+113
+
+Up Quark*16
+Down Quark*16
+Charm Quark*8
+Strange Quark*1
+}}
+ -
+933
+-
+114
+
+Up Quark*40
+Down Quark*40
+Charm Quark*23
+Top Quark*4
+Bottom Quark*4
+Strange Quark*4
+}}
+ -
+944
+-
+115
+
+Up Quark*56
+Down Quark*56
+Charm Quark*33
+Top Quark*10
+Bottom Quark*10
+Crystal Photon*5
+Strange Quark*14
+}}
+
+
+Quark Pickaxe
+}}
+954
+-
+116
+
+Up Quark*80
+Down Quark*80
+Charm Quark*50
+Top Quark*16
+Bottom Quark*16
+Crystal Photon*10
+Strange Quark*20
+}}
+ -
+965
+-
+117
+
+Up Quark*88
+Down Quark*88
+Positron*128
+Charm Quark*68
+Top Quark*32
+Bottom Quark*32
+Crystal Photon*30
+Strange Quark*27
+}}
+
+Supermatter Pickaxe
+}}
+976
+-
+118
+
+Coin*500000
+Supermatter*20
+Rifted Barrier*7
+}}
+ -
+987
+-
+119
+
+Coin*600000
+Supermatter*26
+Rifted Barrier*9
+Fabric*35
+}}
+ -
+998
+-
+120
+
+Coin*750000
+Ambrosine*5
+Supermatter*39
+Rifted Barrier*13
+Fabric*42
+Mavrikine*20
+}}
+
+Fabrican Pickaxe
+}}
+1009
+-
+121
+
+Coin*1000000
+Ambrosine*7
+Gluonium*8
+Supermatter*20
+Rifted Barrier*4
+Fabric*28
+Mavrikine*15
+}}
+ -
+1020
+-
+122
+
+Coin*1000000
+Universallium*1
+Gluonium*12
+Rifted Barrier*7
+Fabric*49
+}}
+ -
+1031
+-
+123
+
+Universallium*1
+String*30
+Graviton*16
+}}
+
+String Pickaxe
+}}
+1042
+-
+124
+
+Ambrosine*15
+String*80
+Graviton*49
+Tachyon*30
+}}
+ -
+1053
+-
+125
+
+Ambrosine*5
+String*70
+Hadronil*30
+Axion*14
+Graviton*40
+Mesonyte*30
+Tachyon*38
+}}
+ -
+1064
+-
+126
+
+Iron*400
+String*80
+Hadronil*25
+Axion*35
+Graviton*50
+Mesonyte*20
+Tachyon*45
+}}
+
+Tachyon Pickaxe
+}}
+1075
+-
+127
+
+Iron*500
+String*64
+Axion*42
+Graviton*49
+Desmentinum*20
+Ailmentin*5
+Sinfurmium*13
+Territane*20
+Gyrivarium*12
+}}
+ -
+1086
+-
+128
+
+Ambrosine*1
+Iron*250
+String*73
+Graviton*35
+Ailmentin*30
+Sinfurmium*29
+Territane*40
+Gyrivarium*15
+}}
+
+Territane Pickaxe
+}}
+1097
+-
+129
+
+Ambrosine*3
+Iron*100
+String*36
+Ailmentin*10
+Territane*30
+Gyrivarium*25
+Krazmite*10
+}}
+ -
+1108
+-
+130
+
+Ambrosine*5
+Territane*35
+Gyrivarium*15
+Krazmite*20
+Dark Energy*25
+}}
+ -
+1119
+-
+131
+
+Ambrosine*8
+Territane*35
+Gyrivarium*26
+Krazmite*25
+Tendrock*350
+Dark Energy*35
+}}
+
+Dark Energy Pickaxe
+}}
+1131
+-
+132
+
+Ambrosine*5
+Territane*30
+Gyrivarium*20
+Krazmite*30
+Tendrock*500
+Dark Energy*30
+}}
+ -
+1142
+-
+133
+
+Ambrosine*8
+Territane*40
+Gyrivarium*20
+Krazmite*24
+Tendrock*666
+Dark Energy*35
+}}
+ -
+1153
+-
+134
+
+Ambrosine*7
+Territane*35
+Krazmite*15
+Tendrock*500
+Dark Energy*35
+Hyperium*25
+}}
+ -
+1164
+-
+135
+
+Ambrosine*5
+Territane*30
+Tendrock*300
+Dark Energy*30
+Hyperium*44
+Antireal*15
+}}
+
+Hyperium Pickaxe
+}}
+1176
+-
+136
+
+Ambrosine*3
+Territane*20
+Tendrock*250
+Dark Energy*25
+Hyperium*50
+Antireal*15
+}}
+ -
+1187
+-
+137
+
+Ambrosine*1
+Territane*15
+Tendrock*100
+Dark Energy*30
+Hyperium*56
+Antireal*15
+Thermisine*10
+}}
+ -
+1198
+-
+138
+
+Malbrane*1
+Territane*25
+Dark Energy*60
+Hyperium*75
+Antireal*20
+Thermisine*15
+}}
+ -
+1210
+-
+139
+
+Malbrane*2
+Dark Energy*30
+Corrodoil*13
+Hyperium*44
+Antireal*25
+Thermisine*20
+}}
+
+Thermisine Pickaxe
+}}
+1221
+-
+140
+
+Neutrine*1
+Malbrane*4
+Dark Energy*40
+Hyperium*44
+Antireal*25
+Thermisine*25
+}}
+ -
+1233
+-
+141
+
+Rifted Barrier*39
+Malbrane*3
+Corrodoil*30
+Grimstone*5
+}}
+
+Stability Pickaxe
+}}
+1244
+-
+142
+
+Malbrane*2
+Grimstone*25
+Phosphyll*8
+Vrimsten*4
+Zilithorus*5
+}}
+
+Alkanite Pickaxe
+}}
+1256
+-
+143
+
+Malbrane*5
+Grimstone*40
+Phosphyll*10
+Vrimsten*10
+Zilithorus*8
+}}
+ -
+1267
+-
+144
+
+Malbrane*7
+Grimstone*50
+Phosphyll*20
+Vrimsten*20
+Zilithorus*14
+Cytosol*200
+}}
+
+Vrimsten Pickaxe
+}}
+1279
+-
+145
+
+Malbrane*2
+Grimstone*90
+Phosphyll*13
+Vrimsten*12
+Zilithorus*6
+Cytosol*600
+}}
+
+Grim Pickaxe
+}}
+1290
+-
+146
+
+Malbrane*5
+Grimstone*50
+Phosphyll*11
+Vrimsten*12
+Zilithorus*6
+Cytosol*673
+Centriale*21
+Neuroplast*7
+}}
+ -
+1302
+-
+147
+
+Malbrane*6
+Grimstone*70
+Phosphyll*16
+Vrimsten*12
+Zilithorus*12
+Cytosol*600
+Centriale*36
+Neuroplast*9
+Trinasine*23
+}}
+
+Centriale Pickaxe
+}}
+1313
+-
+148
+
+Malbrane*7
+Grimstone*150
+Phosphyll*20
+Vrimsten*15
+Zilithorus*15
+Cytosol*1000
+Ichor*30
+Centriale*35
+Neuroplast*18
+Trinasine*30
+}}
+ -
+1325
+-
+149
+
+Malbrane*8
+Grimstone*250
+Phosphyll*30
+Vrimsten*25
+Zilithorus*21
+Cytosol*444
+Ichor*20
+Centriale*28
+Neuroplast*17
+Trinasine*27
+}}
+
+Neutrine Pickaxe
+}}
+1337
+-
+150
+
+Malbrane*10
+Grimstone*500
+Phosphyll*34
+Vrimsten*30
+Zilithorus*30
+Ichor*5
+Centriale*21
+Trinasine*30
+Adrenilar*34
+Macusmite*34
+}}
+ -
+1348
+-
+151
+
+Grimstone*200
+Vrimsten*24
+Adrenilar*12
+Macusmite*22
+Taynalum*12
+Mezihyrium*16
+Leptonyte*20
+Thulinyl*3
+Solarium*25
+}}
+
+Solarium Pickaxe
+}}
+1360
+-
+152
+
+Taynalum*8
+Leptonyte*33
+Solarium*35
+Exotic Matter*30
+Nebulinite*15
+Aurorum*21
+}}
+
+Ultimatter Pickaxe
+}}
+1372
+-
+153
+
+Antimatter*30
+Dark Matter*30
+Strange Matter*42
+Gray Matter*30
+Supermatter*20
+Leptonyte*20
+Solarium*45
+Exotic Matter*50
+Nebulinite*19
+Arkivyll*10
+Aurorum*32
+}}
+ -
+1383
+-
+154
+
+Supermatter*38
+Leptonyte*25
+Solarium*24
+Exotic Matter*25
+Nebulinite*10
+Chronon*20
+Arkivyll*15
+Aurorum*37
+}}
+
+Aurorum Pickaxe
+}}
+1395
+-
+155
+
+Supermatter*7
+Exotic Matter*35
+Nebulinite*25
+Chronon*35
+Arkivyll*20
+Aurorum*43
+}}
+ -
+1407
+-
+156
+
+Exotic Matter*33
+Chronon*66
+Aurorum*74
+Stellar Sediment*3
+Abyssal Sludge*10
+}}
+ -
+1419
+-
+157
+
+Neutronium*20
+Chronon*33
+Aurorum*99
+Stellar Sediment*6
+Abyssal Sludge*30
+Primordian*18
+Hexflame*15
+}}
+
+Cosmodium Pickaxe
+}}
+1431
+-
+158
+
+Neutronium*40
+Aurorum*30
+Stellar Sediment*3
+Abyssal Sludge*50
+Primordian*48
+Hexflame*40
+Tetraquark*20
+}}
+ -
+1443
+-
+159
+
+Neutronium*50
+Abyssal Sludge*60
+Primordian*54
+Cosmodium*21
+Hexflame*35
+Tetraquark*20
+}}
+
+Tetraquark Pickaxe
+}}
+1454
+-
+160
+
+Stellar Sediment*5
+Abyssal Sludge*40
+Primordian*96
+Cosmodium*28
+Hexflame*30
+Tetraquark*50
+Mauraline*30
+}}
+ -
+1466
+-
+161
+
+Havicron*1
+Solarium*166
+Stellar Sediment*6
+Abyssal Sludge*50
+Primordian*90
+Cosmodium*32
+Tetraquark*55
+Mauraline*55
+}}
+ -
+1478
+-
+162
+
+Newtonium*150
+Coronium*150
+Havicron*2
+Solarium*120
+Stellar Sediment*7
+Primordian*100
+Cosmodium*35
+Tetraquark*85
+Mauraline*75
+}}
+ -
+1490
+-
+163
+
+Surrendrock*500
+Adrenilar*120
+Havicron*2
+Solarium*160
+Stellar Sediment*3
+Primordian*100
+Cosmodium*35
+Tetraquark*70
+Mauraline*100
+}}
+ -
+1502
+-
+164
+
+Ambrosine*50
+Solarium*96
+Stellar Sediment*3
+Primordian*60
+Cosmodium*18
+Mauraline*60
+Nihinoris*160
+Infrarian*45
+}}
+
+Nihinoris Pickaxe
+}}/Nyrvinoris Pickaxe
+}}
+1514
+-
+165
+
+Ambrosine*70
+Grimstone*800
+Exotic Matter*300
+Nihinoris*180
+Infrarian*80
+Ultranium*140
+}}
+
+Ultranium Pickaxe
+}}
+1526
+-
+166
+
+Universallium*10
+Fabric*500
+Exotic Matter*350
+Nihinoris*300
+Infrarian*125
+Ultranium*260
+Auricallium*150
+}}
+
+Exodian Pickaxe
+}}
+1538
+-
+167
+
+Universallium*5
+Sunstone*50
+Moonstone*50
+Exotic Matter*150
+Nihinoris*350
+Infrarian*130
+Ultranium*300
+Auricallium*160
+Unobtainium*40
+}}
+
+Tesla Pickaxe
+}}
+1550
+-
+168
+
+Universallium*6
+Nilidust*250
+Solarium*400
+Exotic Matter*124
+Nihinoris*240
+Infrarian*155
+Ultranium*240
+Auricallium*240
+Unobtainium*60
+Zeronian*150
+Exodian*200
+}}
+
+Unobtainium Pickaxe
+}}
+1562
+-
+169
+
+Universallium*1
+Element V*2
+Orichalican*150
+Up Quark*500
+Down Quark*500
+Auricallium*70
+Zeronian*100
+Aetherice*100
+}}
+
+Nullinil Pickaxe
+}}
+1575
+-
+170
+
+Ambrosine*20
+Antimatter*244
+Antireal*175
+Centriale*84
+Zeronian*50
+Aetherice*250
+Starniferus*200
+Ethanerite*288
+Lumenyl*180
+}}
+
+Aetherice Pickaxe
+}}
+1587
+-
+171
+
+Graphene*450
+Shadowspec*175
+Universal Barrier*400
+Hexflame*200
+Exodian*450
+Starniferus*200
+Lumenyl*200
+Impervium*400
+}}
+
+Hexflame Pickaxe
+}}
+1599
+-
+172
+
+Ambrosine*50
+Thallium*130
+Malbrane*50
+Zilithorus*300
+Ichor*400
+Solarium*444
+Nihinoris*450
+Unobtainium*125
+Impervium*300
+Kryposilus*250
+}}
+
+Impervium Pickaxe
+}}
+1611
+-
+173
+
+Positron*1002
+Exodian*105
+Impervium*50
+Kryposilus*150
+Vythusilyte*80
+Nethrastine*24
+}}
+
+Periglise Pickaxe
+}}
+1623
+-
+174
+
+Auricallium*75
+Zeronian*260
+Lumenyl*166
+Impervium*50
+Vythusilyte*90
+Raw Energy*180
+Formicite*170
+}}
+
+Vythusilyte Pickaxe
+}}
+1635
+-
+175
+
+Cosmic Glass*80
+Dystranum*2
+Abyssal Sludge*104
+Vythusilyte*120
+Nethrastine*7
+Raw Energy*300
+Formicite*305
+Enceladrum*200
+Obliviril*155
+}}
+
+Obliviril Pickaxe
+}}
+1648
+-
+176
+
+Ambrosine*10
+Vythusilyte*95
+Raw Energy*35
+Evrasalt*5
+Zetaslime*30
+Ochistrite*25
+}}
+
+Ochistrite Pickaxe
+}}
+1660
+-
+177
+
+Vythusilyte*40
+Periglise*10
+Evrasalt*3
+Kafsium*34
+Zetaslime*25
+Ochistrite*45
+}}
+ -
+1672
+-
+178
+
+Emerald*7
+Starniferus*44
+Enceladrum*22
+Kafsium*25
+Zetaslime*40
+Ochistrite*60
+Reithum*30
+}}
+ -
+1684
+-
+179
+
+Sunstone*21
+Solarium*160
+Mauraline*50
+Lumenyl*34
+Kafsium*15
+Ochistrite*70
+}}
+ -
+1697
+-
+180
+
+Zeronian*100
+Aetherice*50
+Raw Energy*100
+Obliviril*25
+Zetaslime*28
+Ochistrite*50
+}}
+
+Zerofuse Pickaxe
+}}
+1709
+-
+181
+
+Evrasalt*7
+Kafsium*70
+Zetaslime*100
+Ochistrite*125
+Reithum*50
+Truth Quark*45
+Wish Alloy*25
+}}
+
+Truth Quark Pickaxe
+}}
+1721
+-
+182
+
+Yilantibris*70
+Stardust*66
+Photalizine*80
+Malbrane*11
+Impervium*101
+Truth Quark*60
+Wish Alloy*40
+}}
+ -
+1734
+-
+183
+
+Ambrosine*24
+Yilantibris*100
+Stardust*89
+Celesteel*50
+Photalizine*102
+Ochistrite*60
+Truth Quark*101
+Wish Alloy*70
+}}
+ -
+1746
+-
+184
+
+Emerald*2
+Yilantibris*67
+Stardust*67
+Celesteel*55
+Tetraquark*150
+Unobtainium*20
+Kafsium*67
+Truth Quark*100
+Wish Alloy*120
+}}
+
+Wish Alloy Pickaxe
+}}
+1759
+-
+185
+
+Chlorophyte*160
+Barium*125
+Yunium*144
+Cometite*111
+Convectine*98
+Zetaslime*127
+Reithum*64
+Vorazylith*101
+Truth Quark*121
+}}
+ -
+1771
+-
+186
+
+Amber*60
+Peridot*126
+Lithium*189
+Naquadah*210
+Frozen Nitrogen*252
+Kafsium*224
+Ochistrite*240
+Wish Alloy*117
+Phantasmorite*75
+}}
+
+Phantasmorite Pickaxe
+}}
+1784
+-
+187
+
+Plutonium*240
+Rose Quartz*144
+Jasper*222
+Prismaline*120
+Samarium*205
+Reithum*96
+Vorazylith*150
+Truth Quark*139
+Phantasmorite*123
+}}
+ -
+1796
+-
+188
+
+Mithril*97
+Navitalc*225
+Myriroule*135
+Anetrium*350
+Yilantibris*243
+Taynalum*270
+Kafsium*288
+Vorazylith*151
+Wish Alloy*216
+Profelis*120
+}}
+
+Vorazylith Pickaxe
+}}
+1808
+-
+189
+
+Vanadium*120
+Polonium*84
+Cryonine*120
+Polarveril*60
+Stardust*170
+Desmentinum*252
+Thulinyl*49
+Vorazylith*120
+Profelis*150
+Xerutherum*140
+}}
+ -
+1821
+-
+190
+
+Universallium*7
+Ebonakite*220
+Orichalican*160
+Photalizine*250
+Ectokelyte*12
+Rhylazil*1
+Zetaslime*280
+Reithum*120
+Phantasmorite*120
+Xerutherum*160
+}}
+
+Ubriniale Pickaxe
+}}
+1834
+-
+191
+
+Emerald*2570
+Quark Matter*200
+Mezihyrium*175
+Ectokelyte*10
+Ultranium*210
+Impervium*125
+Raw Energy*150
+Periglise*160
+Ogleum*257
+Protireal*200
+}}
+
+Isoronil Pickaxe
+}}

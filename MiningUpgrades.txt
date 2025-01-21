@@ -1,0 +1,493 @@
+|0
+|Coal|3 Iron|1
+|Stone Pickaxe
+
+
+|1
+|Coal|10 Copper|10 Iron|10 Topaz|1
+|Iron Pickaxe
+
+
+|2
+|Gold|15 Ruby|10 Sapphire|10 Silver|10
+|Gold Pickaxe<br>Flint Pickaxe
+
+
+|3
+|Amethyst|10 Emerald|10 Sapphire|15 Zinc|20
+|Ruby Pickaxe
+
+
+|4
+|Amethyst|25 Gravel|75 Opal|3
+|Emerald Pickaxe<br>Uranium Pickaxe
+
+
+|5
+|Copper|30 Emerald|15 Iron|40 Uranium|10
+|Amethyst Pickaxe<br>Precise Pickaxe
+
+
+|6
+|Amethyst|20 Diamond|12 Microcline|16
+|Diamond Pickaxe
+
+
+|7
+|Copper|75 Ice|50 Kyanite|14
+|Microcline Pickaxe
+
+
+|8
+|Lepidolite|15 Tsavorite|10 Zinc|80
+|Kyanite Pickaxe
+
+
+|9
+|Chalcedony|20 Galena|2 Lepidolite|30
+|Chalcedony Pickaxe
+
+
+|10
+|Chalcedony|30 Garnet|12 Sugilite|16
+|Sugilite Pickaxe
+
+
+|11
+|Garnet|30 Rhodonite|15 Technetium|15
+|Garnet Pickaxe
+
+
+|12
+|Carnelian|5 Painite|3 Zircon|15
+|Technetium Pickaxe
+
+
+|13
+|Carnelian|15 Citrine|12 Technetium|20
+|Zircon Pickaxe
+
+
+|14
+|Californium|20 Carnelian|15 Citrine|13
+|Citrine Pickaxe
+
+
+|15
+|Citrine|14 Serpentine|20 Uranium|16
+|Californium Pickaxe
+
+
+|16
+|Fluorite|7 Neptunium|7 Serpentine|16
+|Fluorite Pickaxe
+
+
+|17
+|Neptunium|8 NuclearWaste|50 Radium|6
+|Radium Pickaxe<br>Neptunium Pickaxe
+
+
+|18
+|Fluorite|9 Polonium|3 Serpentine|22 Thorium|2
+|Polonium Pickaxe
+
+
+|19
+|Beryllium|6 Heliodor|5 Magma|18
+|Magma Pickaxe<br>Olivine Pickaxe
+
+
+|20
+|Heliodor|11 Lonsdaleite|12 Magma|21 Obsidian|2 Palladium|18
+|Palladium Pickaxe<br>Precise II Pickaxe
+
+
+|21
+|Chambersite|35 Copper|150 Flint|16 Silver|120 Tanzanite|20
+|Obsidian Pickaxe
+
+
+|22
+|Ametrine|27 Chambersite|60 Ice|150 Malachite|20 RadioactiveWaste|200
+|Chambersite Pickaxe
+
+
+|23
+|Galena|10 Lepidolite|70 Spinel|40 Tourmaline|15
+|Tanzanite Pickaxe
+
+
+|24
+|Olivine|20 Scapolite|20 Tanzanite|26 Thorium|20 Tourmaline|16
+|Lanthanum Pickaxe
+
+
+|25
+|Aragonite|13 Einsteinium|11 Tellurium|32
+|Tourmaline Pickaxe
+
+
+|26
+|Aragonite|21 Einsteinium|29 Rhodium|11 Tellurium|39
+|Tellurium Pickaxe
+
+
+|27
+|Aragonite|29 Chrysoprase|36 Larimar|14
+|Aragonite Pickaxe
+
+
+|28
+|Adamite|7 Aventurine|32 Larimar|20 WarpedStone|400
+|Chrysoprase Pickaxe
+
+
+|29
+|Aventurine|55 Francium|29 Galaxite|16 Neodymium|11
+|Aventurine Pickaxe
+
+
+|30
+|Adamite|10 Cadmium|19 Celestine|23 Neodymium|27
+|Neodymium Pickaxe
+
+
+|31
+|Aventurine|42 Bismuth|22 Francium|32 WarpedStone|800
+|Cadmium Pickaxe
+
+
+|32
+|Francium|29 Halite|18 Morganite|42 Rhodium|17 Vanadium|28
+|Bismuth Pickaxe
+
+
+|33
+|Adamite|15 Aragonite|46 Hematite|27 Realgar|31
+|Morganite Pickaxe
+
+
+|34
+|AbyssalStone|700 Chrysoprase|27 Hematite|31 Neodymium|44 Schorl|11
+|Nephrite Pickaxe
+
+
+|35
+|Cadmium|29 Morganite|66 Schorl|30 Tellurium|58 Vanadium|29
+|Realgar Pickaxe
+
+
+|36
+|Dmitryivanovite|29 Greifensteinite|36 nil|500
+|Schorl Pickaxe
+
+
+|37
+|Boussingaultite|17 Dmitryivanovite|38 Picropharmacolite|30 Vauquelinite|26
+|Greifensteinite Pickaxe
+
+
+|38
+|Apophyllite|15 Chalcopyrite|20 Hydromagnesite|29 Picropharmacolite|35
+|Dmitryivanovite Pickaxe
+
+
+|39
+|Chalcopyrite|27 Greifensteinite|71 Oosterboschite|17 Picropharmacolite|40 nil|900
+|Hydromagnesite Pickaxe
+
+
+|40
+|Elkinstantonite|21 Fluororichterite|36 Jeremejevite|16
+|Oosterboschite Pickaxe<br>Grandidierite Pickaxe
+
+
+|41
+|Arseniosiderite|20 Glaucochroite|38 MalfunctionStone|700 Millosevichite|31
+|Fluororichterite Pickaxe
+
+
+|42
+|Fluororichterite|88 Jeremejevite|33 Niedermayrite|34
+|Glaucochroite Pickaxe
+
+
+|43
+|Cuprosklodowskite|46 Elkinstantonite|38 Leucophanite|24 MalfunctionStone|1300
+|Niedermayrite Pickaxe
+
+
+|44
+|Agate|25 Apatite|20 Cloud|400
+|Leucophanite Pickaxe
+
+
+|45
+|Quartz|32 Talc|26 Turquoise|28
+|Agate Pickaxe
+
+
+|46
+|Bornite|8 Opal|19 Talc|34
+|Talc Pickaxe
+
+
+|47
+|Cloud|1000 Quartz|32 Turquoise|35
+|Apatite Pickaxe
+
+
+|48
+|Agate|39 Bornite|16 Jasper|32 Langite|36
+|Langite Pickaxe
+
+
+|49
+|Apeirocline|18 Perdiastrum|15 Zenibrum|10
+|Bornite Pickaxe
+
+
+|50
+|Roentgenium|11 Scandium|8 TimeCrystal|8
+|Apeirocline Pickaxe
+
+
+|51
+|Apeirocline|24 Laventrine|12 Tungsten|16
+|Zenibrum Pickaxe
+
+
+|52
+|Perdiastrum|20 Tennessine|8 Tungsten|23
+|Tungsten Pickaxe
+
+
+|53
+|Hexaferrum|16 Ireminite|6 Manyullyn|20
+|Tennessine Pickaxe
+
+
+|54
+|Corundum|10 Manyullyn|28 Naquadria|14
+|Manyullyn Pickaxe
+
+
+|55
+|Chromatril|9 Cosmilite|6 Quintapearl|21
+|Quintapearl Pickaxe
+
+
+|56
+|Asteroid|500 Nickel|19 Platinum|17 Titanium|11
+|Cosmilite Pickaxe
+
+
+|57
+|Asteroid|1000 Iridium|21 Magnesium|8 Silicon|13
+|Platinum Pickaxe
+
+
+|58
+|Asteroid|1500 Iridium|18 Osmium|23 Silicon|16
+|Osmium Pickaxe
+
+
+|59
+|Asteroid|2000 Cobalt|17 Platinum|22 Ruthenium|24
+|Cobalt Pickaxe
+
+
+|60
+|AlteredFabric|7 Asurine|22 Niobium|7
+|Magnesium Pickaxe
+
+
+|61
+|Asurine|27 Coralmite|9 Trenchstone|90
+|Asurine Pickaxe
+
+
+|62
+|Coral|1100 Seaborgium|19 Tenebris|18
+|Niobium Pickaxe
+
+
+|63
+|Asurine|36 Fluvium|23 Niobium|28 Thalasstrian|11
+|Fluvium Pickaxe
+
+
+|64
+|Fractalice|24 Thalasstrian|18 Viridis|21
+|Thalasstrian Pickaxe
+
+
+|65
+|Alcyoneum|20 AuroraCrystal|1000 Caesium|22
+|Fractalice Pickaxe
+
+
+|66
+|Fractalice|27 Gelidine|22 Mithril|10
+|Gelidine Pickaxe
+
+
+|67
+|Divumite|23 Mithril|16 Valonite|18
+|Mithril Pickaxe<br>Australium Pickaxe
+
+
+|68
+|Divumite|24 Narcor|13 Samarium|16
+|Divumite Pickaxe
+
+
+|69
+|Ardite|13 Octine|22 Pyrochre|26
+|Narcor Pickaxe
+
+
+|70
+|Basalt|125 Coronium|25 Pyrochre|19
+|Pyrochre Pickaxe
+
+
+|71
+|Moltenia|14 Scoria|1400 Solarium|18
+|Solarium Pickaxe
+
+
+|72
+|Lightmatter|28 Moltenia|28 Nightmatter|14 Rutile|13
+|Moltenia Pickaxe<br>Coruscent Pickaxe
+
+
+|73
+|Onyx|12 Sulfur|63 Yunium|32
+|Lightmatter Pickaxe<br>Nightmatter Pickaxe
+
+
+|74
+|Andesite|1600 CertusQuartz|26 Lightmatter|28
+|BlackDiamond Pickaxe
+
+
+|75
+|BlackDiamond|30 Lightmatter|18 Nightmatter|32 Scylline|18
+|CertusQuartz Pickaxe
+
+
+|76
+|Arthurite|34 Kendrium|18 Scylline|30
+|Scylline Pickaxe
+
+
+|77
+|Oneirocline|36 Somnium|26 Xenon|19
+|Arthurite Pickaxe
+
+
+|78
+|Arthurite|46 Nefellin|31 Tolmedite|29
+|Oneirocline Pickaxe
+
+
+|79
+|CosmicDust|1700 Somnium|34 Stratosphene|26
+|Nefellin Pickaxe
+
+
+|80
+|Brightine|35 Ochrum|28 Biruvite|26 BlackDiamond|56
+|Stratosphene Pickaxe
+
+
+|81
+|Nevmarel|37 Wavellite|34 Ochrum|41 Lightmatter|78
+|Brightine Pickaxe
+
+
+|82
+|Dravite|34 Indium|32 Wavellite|37 Flavolite|40 Sulfur|142
+|Precise III Pickaxe<br>Xanthiosite Pickaxe
+
+
+|83
+|EnchantedObsidian|9 Andrinite|38 Chromium|28
+|Dravite Pickaxe
+
+
+|84
+|MalachiteBlock|2000 Newtonium|37 Andrinite|57
+|Andrinite Pickaxe
+
+
+|85
+|MysticQuartz|28 Chrysocolla|24 PlasmaChalcedony|43 ElementalMalachite|17
+|Chromium Pickaxe
+
+
+|86
+|PlasmaChalcedony|46 Veridium|25 Newtonium|40 Sulfur|164
+|Gadolinium Pickaxe
+
+
+|87
+|Tritium|13 Korrelite|35 Sulfur|140
+|Veridium Pickaxe
+
+
+|88
+|Deuterium|2500 Lithium|39 Korrelite|55
+|Korrelite Pickaxe
+
+
+|89
+|Tritium|32 Violecite|26 Kenosire|44 Melanoheliodor|22
+|Promethium Pickaxe
+
+
+|90
+|Hazenite|33 Agnostine|30 Promethium|41 Demonite|45
+|Demonite Pickaxe
+
+
+|91
+|Crimtane|35 Friedelite|40 Dysprosium|33 Apophistone|20
+|Agnostine Pickaxe
+
+
+|92
+|Crimtane|42 Crimsoberyl|35 Dysprosium|40 Livermorium|23
+|Friedelite Pickaxe
+
+
+|93
+|Indicolite|15 Antimony|40 Crimsoberyl|40 Oganesson|25 Cytoprase|32
+|Dysprosium Pickaxe<br>Precise IV Pickaxe
+
+
+|94
+|Indicolite|30 Antimony|50 Cytoprase|40 Oganesson|35 Devilline|30
+|Cytoprase Pickaxe
+
+
+|95
+|Coal|50 Sulfur|50 Omegastring|70 Aeroshard|30
+|Indicolite Pickaxe
+
+
+|96
+|Coal|200 Sulfur|150 Omegastring|105 Aeroshard|40 Fractiglass|50 Azure|1 Polarity|34
+|Omegastring Pickaxe
+
+
+|97
+|Coal|150 Sulfur|150 Omegastring|150 Starslate|30 Fractiglass|100 Azure|2 Polarity|70 Unobtainium|13 Diamond|150 DiamondBlock|2027
+|Hypervoid Pickaxe<br>Precise V Pickaxe
+
+
+|98
+|Coal|300 Sulfur|300 Omegastring|120 Aeroshard|80 Fractiglass|150 Azure|3 Polarity|80 Unobtainium|25 Twilistar|80 Multimatter|50 Primatter|60 Arcanic|34
+|Arcanic Pickaxe

@@ -1,0 +1,697 @@
+{
+    "1": {
+        "Coal": 3,
+        "Iron": 1
+    },
+    "2": {
+        "Coal": 10,
+        "Copper": 10,
+        "Iron": 10,
+        "Topaz": 1
+    },
+    "3": {
+        "Gold": 15,
+        "Ruby": 10,
+        "Sapphire": 10,
+        "Silver": 10
+    },
+    "4": {
+        "Amethyst": 10,
+        "Emerald": 10,
+        "Sapphire": 15,
+        "Zinc": 20
+    },
+    "5": {
+        "Amethyst": 25,
+        "Gravel": 75,
+        "Opal": 3
+    },
+    "6": {
+        "Copper": 30,
+        "Emerald": 15,
+        "Iron": 40,
+        "Uranium": 10
+    },
+    "7": {
+        "Amethyst": 20,
+        "Diamond": 12,
+        "Microcline": 16
+    },
+    "8": {
+        "Copper": 75,
+        "Ice": 50,
+        "Kyanite": 14
+    },
+    "9": {
+        "Lepidolite": 15,
+        "Tsavorite": 10,
+        "Zinc": 80
+    },
+    "10": {
+        "Chalcedony": 20,
+        "Galena": 2,
+        "Lepidolite": 30
+    },
+    "11": {
+        "Chalcedony": 30,
+        "Garnet": 12,
+        "Sugilite": 16
+    },
+    "12": {
+        "Garnet": 30,
+        "Rhodonite": 15,
+        "Technetium": 15
+    },
+    "13": {
+        "Carnelian": 5,
+        "Painite": 3,
+        "Zircon": 15
+    },
+    "14": {
+        "Carnelian": 15,
+        "Citrine": 12,
+        "Technetium": 20
+    },
+    "15": {
+        "Californium": 20,
+        "Carnelian": 15,
+        "Citrine": 13
+    },
+    "16": {
+        "Citrine": 14,
+        "Serpentine": 20,
+        "Uranium": 16
+    },
+    "17": {
+        "Fluorite": 7,
+        "Neptunium": 7,
+        "Serpentine": 16
+    },
+    "18": {
+        "Neptunium": 8,
+        "NuclearWaste": 50,
+        "Radium": 6
+    },
+    "19": {
+        "Fluorite": 9,
+        "Polonium": 3,
+        "Serpentine": 22,
+        "Thorium": 2
+    },
+    "20": {
+        "Beryllium": 6,
+        "Heliodor": 5,
+        "Magma": 18
+    },
+    "21": {
+        "Heliodor": 11,
+        "Lonsdaleite": 12,
+        "Magma": 21,
+        "Obsidian": 2,
+        "Palladium": 18
+    },
+    "22": {
+        "Chambersite": 35,
+        "Copper": 150,
+        "Flint": 16,
+        "Silver": 120,
+        "Tanzanite": 20
+    },
+    "23": {
+        "Ametrine": 27,
+        "Chambersite": 60,
+        "Ice": 150,
+        "Malachite": 20,
+        "RadioactiveWaste": 200
+    },
+    "24": {
+        "Galena": 10,
+        "Lepidolite": 70,
+        "Spinel": 40,
+        "Tourmaline": 15
+    },
+    "25": {
+        "Olivine": 20,
+        "Scapolite": 20,
+        "Tanzanite": 26,
+        "Thorium": 20,
+        "Tourmaline": 16
+    },
+    "26": {
+        "Aragonite": 13,
+        "Einsteinium": 11,
+        "Tellurium": 32
+    },
+    "27": {
+        "Aragonite": 21,
+        "Einsteinium": 29,
+        "Rhodium": 11,
+        "Tellurium": 39
+    },
+    "28": {
+        "Aragonite": 29,
+        "Chrysoprase": 36,
+        "Larimar": 14
+    },
+    "29": {
+        "Adamite": 7,
+        "Aventurine": 32,
+        "Larimar": 20,
+        "WarpedStone": 400
+    },
+    "30": {
+        "Aventurine": 55,
+        "Francium": 29,
+        "Galaxite": 16,
+        "Neodymium": 11
+    },
+    "31": {
+        "Adamite": 10,
+        "Cadmium": 19,
+        "Celestine": 23,
+        "Neodymium": 27
+    },
+    "32": {
+        "Aventurine": 42,
+        "Bismuth": 22,
+        "Francium": 32,
+        "WarpedStone": 800
+    },
+    "33": {
+        "Francium": 29,
+        "Halite": 18,
+        "Morganite": 42,
+        "Rhodium": 17,
+        "Vanadium": 28
+    },
+    "34": {
+        "Adamite": 15,
+        "Aragonite": 46,
+        "Hematite": 27,
+        "Realgar": 31
+    },
+    "35": {
+        "AbyssalStone": 700,
+        "Chrysoprase": 27,
+        "Hematite": 31,
+        "Neodymium": 44,
+        "Schorl": 11
+    },
+    "36": {
+        "Cadmium": 29,
+        "Morganite": 66,
+        "Schorl": 30,
+        "Tellurium": 58,
+        "Vanadium": 29
+    },
+    "37": {
+        "Dmitryivanovite": 29,
+        "Greifensteinite": 36,
+        "nil": 500
+    },
+    "38": {
+        "Boussingaultite": 17,
+        "Dmitryivanovite": 38,
+        "Picropharmacolite": 30,
+        "Vauquelinite": 26
+    },
+    "39": {
+        "Apophyllite": 15,
+        "Chalcopyrite": 20,
+        "Hydromagnesite": 29,
+        "Picropharmacolite": 35
+    },
+    "40": {
+        "Chalcopyrite": 27,
+        "Greifensteinite": 71,
+        "Oosterboschite": 17,
+        "Picropharmacolite": 40,
+        "nil": 900
+    },
+    "41": {
+        "Elkinstantonite": 21,
+        "Fluororichterite": 36,
+        "Jeremejevite": 16
+    },
+    "42": {
+        "Arseniosiderite": 20,
+        "Glaucochroite": 38,
+        "MalfunctionStone": 700,
+        "Millosevichite": 31
+    },
+    "43": {
+        "Fluororichterite": 88,
+        "Jeremejevite": 33,
+        "Niedermayrite": 34
+    },
+    "44": {
+        "Cuprosklodowskite": 46,
+        "Elkinstantonite": 38,
+        "Leucophanite": 24,
+        "MalfunctionStone": 1300
+    },
+    "45": {
+        "Agate": 25,
+        "Apatite": 20,
+        "Cloud": 400
+    },
+    "46": {
+        "Quartz": 32,
+        "Talc": 26,
+        "Turquoise": 28
+    },
+    "47": {
+        "Bornite": 8,
+        "Opal": 19,
+        "Talc": 34
+    },
+    "48": {
+        "Cloud": 1000,
+        "Quartz": 32,
+        "Turquoise": 35
+    },
+    "49": {
+        "Agate": 39,
+        "Bornite": 16,
+        "Jasper": 32,
+        "Langite": 36
+    },
+    "50": {
+        "Apeirocline": 18,
+        "Perdiastrum": 15,
+        "Zenibrum": 10
+    },
+    "51": {
+        "Roentgenium": 11,
+        "Scandium": 8,
+        "TimeCrystal": 8
+    },
+    "52": {
+        "Apeirocline": 24,
+        "Laventrine": 12,
+        "Tungsten": 16
+    },
+    "53": {
+        "Perdiastrum": 20,
+        "Tennessine": 8,
+        "Tungsten": 23
+    },
+    "54": {
+        "Hexaferrum": 16,
+        "Ireminite": 6,
+        "Manyullyn": 20
+    },
+    "55": {
+        "Corundum": 10,
+        "Manyullyn": 28,
+        "Naquadria": 14
+    },
+    "56": {
+        "Chromatril": 9,
+        "Cosmilite": 6,
+        "Quintapearl": 21
+    },
+    "57": {
+        "Asteroid": 500,
+        "Nickel": 19,
+        "Platinum": 17,
+        "Titanium": 11
+    },
+    "58": {
+        "Asteroid": 1000,
+        "Iridium": 21,
+        "Magnesium": 8,
+        "Silicon": 13
+    },
+    "59": {
+        "Asteroid": 1500,
+        "Iridium": 18,
+        "Osmium": 23,
+        "Silicon": 16
+    },
+    "60": {
+        "Asteroid": 2000,
+        "Cobalt": 17,
+        "Platinum": 22,
+        "Ruthenium": 24
+    },
+    "61": {
+        "AlteredFabric": 7,
+        "Asurine": 22,
+        "Niobium": 7
+    },
+    "62": {
+        "Asurine": 27,
+        "Coralmite": 9,
+        "Trenchstone": 90
+    },
+    "63": {
+        "Coral": 1100,
+        "Seaborgium": 19,
+        "Tenebris": 18
+    },
+    "64": {
+        "Asurine": 36,
+        "Fluvium": 23,
+        "Niobium": 28,
+        "Thalasstrian": 11
+    },
+    "65": {
+        "Fractalice": 24,
+        "Thalasstrian": 18,
+        "Viridis": 21
+    },
+    "66": {
+        "Alcyoneum": 20,
+        "AuroraCrystal": 1000,
+        "Caesium": 22
+    },
+    "67": {
+        "Fractalice": 27,
+        "Gelidine": 22,
+        "Mithril": 10
+    },
+    "68": {
+        "Divumite": 23,
+        "Mithril": 16,
+        "Valonite": 18
+    },
+    "69": {
+        "Divumite": 24,
+        "Narcor": 13,
+        "Samarium": 16
+    },
+    "70": {
+        "Ardite": 13,
+        "Octine": 22,
+        "Pyrochre": 26
+    },
+    "71": {
+        "Basalt": 125,
+        "Coronium": 25,
+        "Pyrochre": 19
+    },
+    "72": {
+        "Moltenia": 14,
+        "Scoria": 1400,
+        "Solarium": 18
+    },
+    "73": {
+        "Lightmatter": 28,
+        "Moltenia": 28,
+        "Nightmatter": 14,
+        "Rutile": 13
+    },
+    "74": {
+        "Onyx": 12,
+        "Sulfur": 63,
+        "Yunium": 32
+    },
+    "75": {
+        "Andesite": 1600,
+        "CertusQuartz": 26,
+        "Lightmatter": 28
+    },
+    "76": {
+        "BlackDiamond": 30,
+        "Lightmatter": 18,
+        "Nightmatter": 32,
+        "Scylline": 18
+    },
+    "77": {
+        "Arthurite": 34,
+        "Kendrium": 18,
+        "Scylline": 30
+    },
+    "78": {
+        "Oneirocline": 36,
+        "Somnium": 26,
+        "Xenon": 19
+    },
+    "79": {
+        "Arthurite": 46,
+        "Nefellin": 31,
+        "Tolmedite": 29
+    },
+    "80": {
+        "CosmicDust": 1700,
+        "Somnium": 34,
+        "Stratosphene": 26
+    },
+    "81": {
+        "Brightine": 35,
+        "Ochrum": 28,
+        "Biruvite": 26,
+        "BlackDiamond": 56
+    },
+    "82": {
+        "Nevmarel": 37,
+        "Wavellite": 34,
+        "Ochrum": 41,
+        "Lightmatter": 78
+    },
+    "83": {
+        "Dravite": 34,
+        "Indium": 32,
+        "Wavellite": 37,
+        "Flavolite": 40,
+        "Sulfur": 142
+    },
+    "84": {
+        "EnchantedObsidian": 9,
+        "Andrinite": 38,
+        "Chromium": 28
+    },
+    "85": {
+        "MalachiteBlock": 2000,
+        "Newtonium": 37,
+        "Andrinite": 57
+    },
+    "86": {
+        "MysticQuartz": 28,
+        "Chrysocolla": 24,
+        "PlasmaChalcedony": 43,
+        "ElementalMalachite": 17
+    },
+    "87": {
+        "PlasmaChalcedony": 46,
+        "Veridium": 25,
+        "Newtonium": 40,
+        "Sulfur": 164
+    },
+    "88": {
+        "Tritium": 13,
+        "Korrelite": 35,
+        "Sulfur": 140
+    },
+    "89": {
+        "Deuterium": 2500,
+        "Lithium": 39,
+        "Korrelite": 55
+    },
+    "90": {
+        "Tritium": 32,
+        "Violecite": 26,
+        "Kenosire": 44,
+        "Melanoheliodor": 22
+    },
+    "91": {
+        "Hazenite": 33,
+        "Agnostine": 30,
+        "Promethium": 41,
+        "Demonite": 45
+    },
+    "92": {
+        "Crimtane": 35,
+        "Friedelite": 40,
+        "Dysprosium": 33,
+        "Apophistone": 20
+    },
+    "93": {
+        "Crimtane": 42,
+        "Crimsoberyl": 35,
+        "Dysprosium": 40,
+        "Livermorium": 23
+    },
+    "94": {
+        "Indicolite": 15,
+        "Antimony": 40,
+        "Crimsoberyl": 40,
+        "Oganesson": 25,
+        "Cytoprase": 32
+    },
+    "95": {
+        "Indicolite": 30,
+        "Antimony": 50,
+        "Cytoprase": 40,
+        "Oganesson": 35,
+        "Devilline": 30
+    },
+    "96": {
+        "Coal": 50,
+        "Sulfur": 50,
+        "Omegastring": 70,
+        "Aeroshard": 30
+    },
+    "97": {
+        "Coal": 200,
+        "Sulfur": 150,
+        "Omegastring": 105,
+        "Aeroshard": 40,
+        "Fractiglass": 50,
+        "Azure": 1,
+        "Polarity": 34
+    },
+    "98": {
+        "Coal": 150,
+        "Sulfur": 150,
+        "Omegastring": 150,
+        "Starslate": 30,
+        "Fractiglass": 100,
+        "Azure": 2,
+        "Polarity": 70,
+        "Unobtainium": 13,
+        "Diamond": 150,
+        "DiamondBlock": 2027
+    },
+    "99": {
+        "Coal": 300,
+        "Sulfur": 300,
+        "Omegastring": 120,
+        "Aeroshard": 80,
+        "Fractiglass": 150,
+        "Azure": 3,
+        "Polarity": 80,
+        "Unobtainium": 25,
+        "Twilistar": 80,
+        "Multimatter": 50,
+        "Primatter": 60,
+        "Arcanic": 34
+    },
+    "100": {
+        "Sprite": 500,
+        "Primatter": 150,
+        "Multimatter": 100,
+        "Arcanic": 99,
+        "Azure": 5,
+        "Polarity": 175,
+        "Fractiglass": 200,
+        "Hypervoid": 100,
+        "Omegastring": 300,
+        "Unobtainium": 55
+    },
+    "101": {
+        "Soulstone": 75,
+        "Azure": 7,
+        "Runic": 50,
+        "Soulsludge": 250,
+        "Sapphire": 150,
+        "Sprite": 750,
+        "Shattered Aurora": 111,
+        "Diamond Block": 2777,
+        "Illmethenite": 750,
+        "Diamond": 333
+    },
+    "102": {
+        "Rasque": 150,
+        "Kenopsia": 66,
+        "Solysium": 100,
+        "Cobaltarthurite": 5,
+        "Aether": 250,
+        "Soulsludge": 150,
+        "Soulstone": 35,
+        "Runic": 75,
+        "Jellybeanite": 8
+    },
+    "103": {
+        "Solysium": 150,
+        "Vellichor": 10,
+        "Divitium": 100,
+        "Kenopsia": 77,
+        "Aether": 350,
+        "Soulsludge": 250,
+        "Soulstone": 50,
+        "Runic": 125,
+        "Electroglass": 3
+    },
+    "104": {
+        "Rasque": 175,
+        "Entroplasm": 66,
+        "Nyctous": 135,
+        "Shadowshine": 1,
+        "Aether": 500,
+        "Kenopsia": 99,
+        "Soulsludge": 350,
+        "Runic": 150,
+        "Overgrowth": 5
+    },
+    "105": {
+        "Solysium": 165,
+        "Vellichor": 15,
+        "Kenopsia": 106,
+        "Thermalint": 1,
+        "Aether": 650,
+        "Entroplasm": 111,
+        "Cerulean": 2,
+        "Divitium": 166,
+        "Betastring": 1
+    },
+    "106": {
+        "Rasque": 277,
+        "Asbinthine": 133,
+        "Divitium": 170,
+        "Red Bronze": 1,
+        "Aether": 750,
+        "Purpurus": 2,
+        "Grandidierite": 1,
+        "Nyctous": 200,
+        "Solysium": 150
+    },
+    "107": {
+        "Centauryx": 150,
+        "Darkitanium": 25,
+        "Entroplasm": 133,
+        "White Diamond": 1,
+        "Aether": 850,
+        "Vellichor": 20,
+        "Alphastring": 1,
+        "Neutronium": 35,
+        "Nyctous": 200
+    },
+    "108": {
+        "Rasque": 333,
+        "Asbinthine": 150,
+        "Moqumesa": 115,
+        "Natura": 1,
+        "Aether": 1000,
+        "Divitium": 175,
+        "Penumbra": 1,
+        "Apolytus": 175,
+        "Solysium": 200
+    },
+    "109": {
+        "Ecru": 125,
+        "Kenopsia": 133,
+        "Entroplasm": 150,
+        "Valorian": 1,
+        "Aether": 1500,
+        "Lead": 25,
+        "Coruscent": 1,
+        "Centauryx": 200,
+        "Astronium": 115,
+        "Kerozyx": 2
+    },
+    "110": {
+        "Rasque": 500,
+        "Solysium": 275,
+        "Apolytus": 250,
+        "Eigengrau": 1,
+        "Aether": 2500,
+        "Aftergloom": 150,
+        "Celestial": 1,
+        "Darkitanium": 50,
+        "Neutronium": 100,
+        "Astronium": 150,
+        "Vellichor": 30
+    }
+}
